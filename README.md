@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @canano594
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning POO with java and the android studio framework
-- 💞️ I’m looking to collaborate on mobile development applications
+- 💞️ I’m looking to collaborate on mobile applications development
 - 📫 How to reach me nurod594@gmail.com
 
 <!---
